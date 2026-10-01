@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+	  <datos_personales>
+		  <nombres>Pedro Luis</nombres>
+		  <apellidos>Rodriguez Guzman</apellidos>
+		  <emails>
+		  <personal>pedroluisrguzman0707@gmail.com</personal>
+		  <estudiante>pedro.rodriguez@alu.ceacfp.es</estudiante>
+		  </emails>
+		  <telefono>624 56 34 32</telefono>
+	  </datos_personales>
+	  <experiencia>
+		  <practicas>Periodo de Practicas en empresa</practicas>
+		  <empresa>Oratioo</empresa>
+		  <cargo>Estudiante en practicas</cargo>
+		  <inicio>2025-10</inicio>
+		  <final>2026-02</final>
+	  </experiencia>
+	  <formacion>
+		  <grados>
+			  <conseguidos>Titulo en Grado Medio de Sistemas Microinfromaticos y Redes</conseguidos>
+			  <en_curso>Titulo de Grado Superior de Administracion de Sistemas Infromaticos y Redes </en_curso>
+		  </grados>
+	  </formacion>
+	  <idiomas>
+		  <español>Nativo</español>
+		  <ingles>Fluido</ingles>
+	  </idiomas>
+</curriculum>
